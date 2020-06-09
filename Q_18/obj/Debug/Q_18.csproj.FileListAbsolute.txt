@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\bin\Debug\Q_18.exe.config
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\bin\Debug\Q_18.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\bin\Debug\Q_18.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.Form1.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\Q_18\obj\Debug\Q_18.pdb
